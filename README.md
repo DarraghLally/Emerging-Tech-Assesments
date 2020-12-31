@@ -5,17 +5,15 @@
 This repositiry contains my solutions to the tasks assigned to us throughout the 7th semester module Emerging Technologies, delivered by Dr. Ian McLoughlin. My solutions are in the Python language, through Jupyter-Notebook. The rest of this README will give a quick breakdown of each of the four tasks, a how to run guide and finally my conclusions.  
 
 ### Task 1
-The goal is to write a python function to calculate and return the square root of 2 $\sqrt{2}$ to 100 decmial places. We are to achive this without using any of Pythons standard libraries.
+The goal is to write a python function to calculate and return the square root of 2 to 100 decmial places. We are to achive this without using any of Pythons standard libraries.
 
 ### Task 2
-The goal is to verify the Chi-squared value $\chi^2$ from a given table of data, from wikipedia, and calculate the associated 'p' value using `scipy.stats`.
+The goal is to verify the Chi-squared value from a given table of data, from wikipedia, and calculate the associated 'p' value using `scipy.stats`.
 
 ### Task 3
 To research, implement and discuss Microsoft Excel's two variations of Standard Deviation calculations, 
 * Standard Deviation of an **Entire** Population, STDEV.P
-    * $$\sqrt{\frac{\epsilon(x - \bar{x})^2}{n}}$$
 * Standard Deviation of a **Sample** Population, STDEV.S
-    * $$\sqrt{\frac{\epsilon(x - \bar{x})^2}{n-1}}$$
 
 ### Task 4
 To apply K-Means Clustering to Fishers Iris Data. This data was developed by Fisher to distinguish between types of the flower Iris.
